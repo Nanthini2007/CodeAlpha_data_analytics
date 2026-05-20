@@ -1,0 +1,63 @@
+# TASK 3: Netflix Data Visualization Project
+
+## 📌 Project Overview
+This project focuses on analyzing Netflix Titles dataset using visualization techniques to understand content distribution, trends, and viewing-related insights.
+
+---
+
+## 🎯 Objectives
+- Explore Netflix dataset
+- Clean and preprocess data
+- Create meaningful charts and graphs
+- Identify content trends
+- Generate business insights
+
+---
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 📂 Dataset
+Netflix Titles Dataset
+
+Key columns:
+- Show ID
+- Type
+- Title
+- Country
+- Release Year
+- Rating
+- Duration
+- Genre
+
+---
+
+## 📊 Visualizations Created
+- Movies vs TV Shows Distribution
+- Top 10 Countries Producing Content
+- Release Year Trend
+- Rating Distribution
+- Genre Distribution
+- Duration Analysis
+
+---
+
+## 🔍 Key Insights
+- Movies dominate Netflix more than TV Shows.
+- Some countries contribute major content.
+- Content growth increased over years.
+- Certain ratings are more frequent.
+- Drama and International genres are common.
+
+---
+
+## 📌 Conclusion
+Data visualization helped convert raw Netflix data into understandable insights, supporting better understanding of Netflix content trends.
+
+
